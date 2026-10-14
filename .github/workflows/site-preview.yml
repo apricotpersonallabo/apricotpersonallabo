@@ -27,7 +27,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: apricotpersonallabo/apricotpersonallabo
-          ref: feat/site-platform-bootstrap
+          ref: 32a8e48378b0b99d218773f51c170fa1926793ea
           path: .site-platform-host
           persist-credentials: false
 
